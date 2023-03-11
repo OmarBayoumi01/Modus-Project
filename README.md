@@ -2,4 +2,4 @@
 
 https://master--rococo-rugelach-2c9c10.netlify.app/
 
-#### BootSrtrap Project
+#### Replica of Modus Website
